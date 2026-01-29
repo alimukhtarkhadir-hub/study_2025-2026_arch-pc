@@ -1,7 +1,7 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
+  name: Ali Mukhtar Khadir
   degrees: DSc
   orcid: 0000-0002-0877-7063
   email: kulyabov-ds@rudn.ru
