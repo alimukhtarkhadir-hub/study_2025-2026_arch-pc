@@ -4,7 +4,7 @@ author:
   name: Ali Mukhtar Khadir
   degrees: DSc
   orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  email: alimukhtarkhadir@gmail.com
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
